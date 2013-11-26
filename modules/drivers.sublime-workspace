@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"ldistance"
+			],
+			[
+				"le",
+				"levenshtein"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"inp",
+				"input_pattern"
+			],
+			[
+				"rando",
+				"random_element"
+			],
+			[
+				"test",
+				"test_usb"
+			],
+			[
+				"print",
+				"printk"
+			],
+			[
+				"usb",
+				"usb_interface"
+			],
+			[
+				"te",
+				"test_table"
+			],
+			[
+				"tes",
+				"test_init"
+			],
+			[
+				"read",
+				"read_buf"
+			],
+			[
+				"writ",
+				"write_buf"
+			],
+			[
+				"pr",
+				"printk"
+			],
+			[
+				"rand",
+				"randomNumber"
+			],
+			[
+				"hell",
+				"hello_init"
+			],
+			[
+				"i",
+				"inc	#include \"…\""
+			],
+			[
+				"resp",
+				"resp_obj"
+			],
+			[
+				"ai",
+				"ai_family"
+			],
+			[
+				"AI_",
+				"ai_family"
+			],
+			[
+				"width",
+				"max-width"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"search",
+				"search_term"
+			],
+			[
+				"typed",
+				"typed-cursor"
+			],
+			[
+				"back",
+				"backDelay"
+			],
+			[
+				"bac",
+				"backDelay"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"curs",
+				"curStrPos"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sspy",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"sys.path",
+			"import sys",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/shivekkhurana/D/learning/python/ai/neuron/associative_memory_simulation/hebbian_model.py",
+		"/home/shivekkhurana/D/learning/cc++/c/modules/usb_driver/Makefile",
+		"/home/shivekkhurana/D/learning/cc++/c/modules/usb_driver/test_usb.c",
+		"/home/shivekkhurana/Desktop/comparitive advantage",
+		"/home/shivekkhurana/D/learning/cc++/c/modules/char_device/char_device.c",
+		"/etc/hosts",
+		"/etc/host",
+		"/home/shivekkhurana/Desktop/untitled.c",
+		"/home/shivekkhurana/D/learning/cc++/c/modules/userspace/char_consumption.c",
+		"/home/shivekkhurana/D/learning/cc++/c/modules/hello_world/hello.c",
+		"/home/shivekkhurana/D/learning/cc++/c/modules/parameters/hello.c",
+		"/home/shivekkhurana/D/projects/penflip/thiel-foundation-form/Change",
+		"/home/shivekkhurana/D/projects/penflip/thiel-foundation-form/Change-the-World",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/actions/status.js",
+		"/home/shivekkhurana/.profile",
+		"/home/shivekkhurana/.bashrc",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/tasks/runAction.js",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/README.md",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/config.js",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/initializers/parse-api.js",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/package.json",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/views/layout.jade",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/app.js",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/routes/user.js",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/routes/manager.js",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/views/index.jade",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/routes/index.js",
+		"/home/shivekkhurana/D/learning/.gitignore",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/index.js",
+		"/home/shivekkhurana/D/learning/ruby/nameless-shanty-1051/app.rb",
+		"/home/shivekkhurana/D/learning/js/node/truecrawler/login_credentials",
+		"/home/shivekkhurana/D/learning/ruby/nameless-shanty-1051/README.md~",
+		"/home/shivekkhurana/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/shivekkhurana/D/learning/cc++/c/modules/Makefile",
+		"/home/shivekkhurana/Documents/PassportApplicationForm_Main_English_V1.0_data.xml",
+		"/home/shivekkhurana/D/learning/python/nlp/spell_checker/README.md",
+		"/home/shivekkhurana/D/learning/python/nlp/sentiment_analysis/README.md",
+		"/home/shivekkhurana/D/learning/prolog/README.md",
+		"/home/shivekkhurana/D/learning/git/README.md",
+		"/home/shivekkhurana/D/learning/matlab/README.md",
+		"/home/shivekkhurana/D/learning/ruby/nameless-shanty-1051/README.md",
+		"/home/shivekkhurana/D/learning/mathematica/README.md",
+		"/home/shivekkhurana/D/learning/README.md",
+		"/home/shivekkhurana/Desktop/DiabloMiner/LICENSE",
+		"/home/shivekkhurana/D/open/Bitcoin-JavaScript-Miner/bitcoind-server.php",
+		"/home/shivekkhurana/D/open/pyminer/config.cfg",
+		"/home/shivekkhurana/.cache/.fr-Uc9nmc/pp-1.6.4/setup.py",
+		"/home/shivekkhurana/.cache/.fr-Hs8nox/amd-driver-installer-catalyst-13-4-x86.x86_64.run",
+		"/home/shivekkhurana/Desktop/config",
+		"/home/shivekkhurana/Desktop/miner.py",
+		"/home/shivekkhurana/Desktop/ufasoft_coin-0.75/README",
+		"/home/shivekkhurana/D/open/poclbm/README",
+		"/home/shivekkhurana/D/open/pyminer/pyminer.py",
+		"/home/shivekkhurana/D/open/pyminer/README",
+		"/home/shivekkhurana/Videos/5 Killer Workout Routines - Bar Brothers.flv",
+		"/home/shivekkhurana/Desktop/Gingr-admin-web-app-5d8e32b0cb03/admin/app/router.js",
+		"/home/shivekkhurana/Desktop/Gingr-admin-web-app-5d8e32b0cb03/admin/app/services/api.js",
+		"/home/shivekkhurana/Desktop/Gingr-admin-web-app-5d8e32b0cb03/admin/app/services.js",
+		"/home/shivekkhurana/Desktop/Gingr-admin-web-app-5d8e32b0cb03/admin/app/services/auth.js",
+		"/home/shivekkhurana/D/notes/readme",
+		"/home/shivekkhurana/Desktop/m4baker-0.1.91/INSTALL.txt",
+		"/home/shivekkhurana/D/open/libwiimote-0.4/src/wiimote.h",
+		"/home/shivekkhurana/D/open/libwiimote-0.4/src/Makefile.in",
+		"/home/shivekkhurana/D/softwares/android-studio/Install-Linux-tar.txt",
+		"/home/shivekkhurana/D/tmp/savc/index.py",
+		"/home/shivekkhurana/D/open/games source/enelin7-0.8/src/lib01/sdl/t_sdl_input.cc",
+		"/home/shivekkhurana/D/open/games source/enelin7-0.8/src/lib01/tweak/tweakcore.h",
+		"/home/shivekkhurana/D/open/games source/enelin7-0.8/src/lib01/tweak/tweakcore.cc",
+		"/home/shivekkhurana/D/open/games source/enelin7-0.8/src/lib01/tweak/tweakint.h",
+		"/home/shivekkhurana/D/open/games source/enelin7-0.8/src/lib01/tweak/tweakint.cc",
+		"/home/shivekkhurana/D/open/games source/enelin7-0.8/src/control.h",
+		"/home/shivekkhurana/D/open/games source/enelin7-0.8/src/lib01/tweak/tweak.h",
+		"/home/shivekkhurana/D/open/games source/enelin7-0.8/src/lib01/sdl/input.h",
+		"/home/shivekkhurana/D/open/games source/enelin7-0.8/src/lib01/sdl/util_sdl.h",
+		"/home/shivekkhurana/D/learning/cc++/c/network_programming/showip.c",
+		"/home/shivekkhurana/D/learning/cc++/c/network_programming/getaddrinfo_sample_call.c",
+		"/home/shivekkhurana/D/learning/cc++/c/network_programming/getaddrinfo.c",
+		"/home/shivekkhurana/D/open/s/README.md",
+		"/home/shivekkhurana/D/projects/codename-wave/tcpclient.py",
+		"/home/shivekkhurana/D/projects/codename-wave/tcpserver.py",
+		"/home/shivekkhurana/Desktop/client.java",
+		"/home/shivekkhurana/Desktop/team/index.html",
+		"/home/shivekkhurana/Desktop/team/js/custom.js",
+		"/home/shivekkhurana/Desktop/team/css/custom.css",
+		"/home/shivekkhurana/D/open/typed/README.md",
+		"/home/shivekkhurana/D/open/typed/index.htm",
+		"/home/shivekkhurana/D/open/typed/js/typed.js",
+		"/home/shivekkhurana/Desktop/jquery.typer.js-master/test.html",
+		"/home/shivekkhurana/Development/projects/gingr_frontend/app/js/typed.js",
+		"/home/shivekkhurana/Development/projects/gingr_frontend/config/karma.conf.js",
+		"/home/shivekkhurana/Development/projects/gingr_frontend/test/unit/servicesSpec.js",
+		"/home/shivekkhurana/Development/projects/gingr_frontend/test/unit/filtersSpec.js",
+		"/home/shivekkhurana/Development/projects/gingr_frontend/test/unit/directivesSpec.js",
+		"/home/shivekkhurana/Development/projects/gingr_frontend/test/unit/controllersSpec.js",
+		"/home/shivekkhurana/Development/projects/gingr_frontend/scripts/test.sh",
+		"/home/shivekkhurana/Development/open projects/deep-waters-1050/README.md",
+		"/home/shivekkhurana/Development/open projects/teachgit/basic_commands",
+		"/home/shivekkhurana/Desktop/hakimel-reveal.js-d62093c/index.html",
+		"/home/shivekkhurana/Development/projects/gingr_frontend/app/partials/listing.html",
+		"/home/shivekkhurana/Development/projects/gingr_frontend/app/js/directives.js",
+		"/home/shivekkhurana/Development/projects/gingr_frontend/app/css/custom.css",
+		"/home/shivekkhurana/Development/open projects/bowdin/README.md",
+		"/home/shivekkhurana/Development/open projects/joeHumps/README.md",
+		"/home/shivekkhurana/Development/open projects/nameless-shanty-1051/README.md",
+		"/home/shivekkhurana/Development/learning/js/angular/app/js/controllers.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"prin",
+			"xi",
+			"//",
+			":",
+			"                      :",
+			":",
+			" \"",
+			"serverName: ",
+			":",
+			" =",
+			"=",
+			"= ",
+			"def",
+			"The",
+			"require",
+			"number",
+			"end",
+			"def",
+			"But",
+			"HOST_NAME",
+			"print ",
+			"\\s",
+			"img-circle",
+			"img-polaroid",
+			"sr",
+			"a",
+			"src",
+			"img-rounded",
+			".business_card_container"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"print(",
+			"",
+			"img-polaroid img-circle",
+			"src",
+			"",
+			"sr",
+			"img-circle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"project": "drivers.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ch",
+				"char_device/char_device.c"
+			],
+			[
+				"us",
+				"usb_driver/usb_driver.c"
+			],
+			[
+				"he",
+				"hello_world/hello.c"
+			],
+			[
+				"con",
+				"actions/console.js"
+			],
+			[
+				"ro",
+				"routes.js"
+			],
+			[
+				"pacj",
+				"package.json"
+			],
+			[
+				"pa",
+				"initializers/parse-api.js"
+			],
+			[
+				"c",
+				"config.js"
+			],
+			[
+				"user",
+				"routes/user.js"
+			],
+			[
+				"index",
+				"routes/index.js"
+			],
+			[
+				"a",
+				"app.js"
+			],
+			[
+				"in",
+				"index.py"
+			],
+			[
+				"ind",
+				"index.py"
+			],
+			[
+				"inde",
+				"index.py"
+			],
+			[
+				"inpu",
+				"lib01/sdl/t_sdl_input.cc"
+			],
+			[
+				"tweak",
+				"lib01/tweak/tweak.h"
+			],
+			[
+				"sho",
+				"showip.c"
+			],
+			[
+				"r",
+				"s/README.md"
+			],
+			[
+				"contro",
+				"app/js/controllers.js"
+			],
+			[
+				"lis",
+				"app/partials/listing.html"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"typ",
+				"app/js/typed.js"
+			],
+			[
+				"type",
+				"app/js/typed.js"
+			],
+			[
+				"ser",
+				"app/js/services.js"
+			],
+			[
+				"test",
+				"scripts/test.sh"
+			],
+			[
+				"basi",
+				"basic_commands"
+			],
+			[
+				"dire",
+				"app/js/directives.js"
+			],
+			[
+				"cus",
+				"app/css/custom.css"
+			],
+			[
+				"lisi",
+				"app/partials/listing.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"driver",
+				"~/D/learning/cc++/c/modules/drivers.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 264.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
